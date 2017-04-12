@@ -1,6 +1,6 @@
 ## Backgound
 
-Flow maps are a special type of network visualization for object movements, such as the number of peopele in a migration. A typical flow map, which contains one source and multiple targets, is visualized as a flow-style tree overlaied on top of a map. 
+Flow maps are a special type of network visualization for object movements, such as the number of people in a migration. A typical flow map, which contains one source and multiple targets, is visualized as a flow-style tree overlaied on top of a map. 
 
 ![](assets/screenshot1.png)
 
