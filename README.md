@@ -17,7 +17,7 @@ The line thicknesses are scaled to represent the values between the source (the 
 * Special settings:
     * **Flow type**: It can be either `Out-flow`, which constructs flows based on the origins, or `In-flow`, which constructs flows based on the destinations.
     * **Flow limit**: This controls the max number of flows that can be displayed simultaneously.
-* Need more help? Please leave a comment [here](https://weiweicui.github.io/PowerBI-Flowmap/).
+* Need more help? Please leave a comment [here](https://weiweicui.github.io/PowerBI-Flowmap/index.html#comments).
 
 ***
 {% include disqus_comments.html %}
