@@ -8,7 +8,7 @@ The line thicknesses are scaled to represent the values between the source (the 
 
 ## Where to Get It
 
-You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&ui=zh-CN&rs=zh-CN&ad=CN&appredirect=false) or the _dist_ folder in this repo.
+You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&ui=zh-CN&rs=zh-CN&ad=CN&appredirect=false) or the [_dist_](https://github.com/weiweicui/PowerBI-Flowmap/tree/master/dist) folder in this repo.
 
 ## How to Use
 * Required fields: 
