@@ -6,9 +6,13 @@ Flow maps are a special type of network visualization for object movements, such
 
 The line thicknesses are scaled to represent the values between the source (the root) and the targets (the leaves). By merging edges together, Flow maps can reduce visual clutter and enhance directional trends. 
 
+## Where to Get It
+
+You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&ui=zh-CN&rs=zh-CN&ad=CN&appredirect=false) or the [_dist_](https://github.com/weiweicui/PowerBI-Flowmap/tree/master/dist) folder in this repo.
+
 ## How to Use
 * Required fields: 
-    * **Origin location/label** and **Destination location/label**: These two fields are used to construct relationships. They are also used to query geo-locations if latitude/longitude are not specified.
+    * **Origin** and **Destination**: These two fields are used to construct relationships. They may be treated as addresses and used to query geo-locations (through [Bing Maps REST Services](https://msdn.microsoft.com/en-us/library/ff701713.aspx)) if latitude/longitude are not specified.
     * **Value**: This field is used to compute flow widths. Negative values will be ignored. 
 * Optional fields:
     * **Category**: If specified, the flows that have the same category value will be colored the same.
