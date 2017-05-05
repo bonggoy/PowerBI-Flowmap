@@ -10,6 +10,11 @@ The line thicknesses are scaled to represent the values between the source (the 
 
 You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&ui=zh-CN&rs=zh-CN&ad=CN&appredirect=false) or the [_dist_](https://github.com/weiweicui/PowerBI-Flowmap/tree/master/dist) folder in this repo.
 
+* Update 1.1:
+    * add **Advanced - Flow style**: Can change the visualization style between curve, great circle, and straight line.
+    * add an optional field **Tooltip**: It will display the tooltip content, which by default is using the **Value** field.
+    * add **Tooltip Format**: Can customize the format of values (if they are numbers) displayed in tooltips.
+
 ## How to Use
 * Required fields: 
     * **Origin** and **Destination**: These two fields are used to construct relationships. They may be treated as addresses and used to query geo-locations (through [Bing Maps REST Services](https://msdn.microsoft.com/en-us/library/ff701713.aspx)) if latitude/longitude are not specified.
@@ -19,8 +24,10 @@ You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?a
     * **Origin/Destination latitude/longitude**: These fields specify the geo-locations of sources and targets. 
 
 * Special settings:
-    * **Flow type**: It can be either `Out-flow`, which constructs flows based on the origins, or `In-flow`, which constructs flows based on the destinations.
-    * **Flow limit**: This controls the max number of flows that can be displayed simultaneously.
+    * **Advanced - Flow type**: It can be either `Out-flow`, which constructs flows based on the origins, or `In-flow`, which constructs flows based on the destinations.
+    * **Advanced - Flow limit**: This controls the max number of flows that can be displayed simultaneously.
+
+
 * Need more help? Please leave a comment [here](https://weiweicui.github.io/PowerBI-Flowmap).
 
 ***
