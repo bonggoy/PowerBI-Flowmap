@@ -10,7 +10,7 @@ The line thicknesses are scaled to represent the values between the source (the 
 
 You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&ui=zh-CN&rs=zh-CN&ad=CN&appredirect=false) or the [_dist_](https://github.com/weiweicui/PowerBI-Flowmap/tree/master/dist) folder in this repo.
 
-* Update 1.1 (still a draft in the _dist_):
+* Update 1.1.x (still a draft in the _dist_):
     * add **Advanced - Flow style**: Can change the visualization style between curve, great circle, and straight line.
     * add an optional field **Tooltip**: Now it is customizable. By default, the value field is used.
     * add **Tooltip Format**: Can customize the format of values (if they are numbers) displayed in tooltips.
