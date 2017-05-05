@@ -12,7 +12,7 @@ You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?a
 
 * Update 1.1 (still a draft in the _dist_):
     * add **Advanced - Flow style**: Can change the visualization style between curve, great circle, and straight line.
-    * add an optional field **Tooltip**: It will display the tooltip content, which by default is using the **Value** field.
+    * add an optional field **Tooltip**: Now it is customizable. By default, the value field is used.
     * add **Tooltip Format**: Can customize the format of values (if they are numbers) displayed in tooltips.
 
 ## How to Use
