@@ -14,6 +14,7 @@ You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?a
     * add **Advanced - Flow style**: Can change the visualization style between curve, great circle, and straight line.
     * add an optional field **Tooltip**: Now it is customizable. By default, the value field is used.
     * add **Tooltip Format**: Can customize the format of values (if they are numbers) displayed in tooltips.
+    * remove the flow limit: Now can set any number in **Advanced - Flow limit**, which is previously capped by 10. However, the predefined good categorical colors may run out.
 
 ## How to Use
 * Required fields: 
