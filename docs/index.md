@@ -9,7 +9,7 @@ image_sliders:
 
 Flow maps are a special type of network visualization for object movements, such as the number of people in a migration. A typical flow map, which contains one source and multiple targets, is visualized as a flow-style tree overlaid on top of a map.
 
-![](assets/screenshot1.png)
+{% include slider.html selector="slider1" %}
 
 The line thicknesses are scaled to represent the values between the source (the root) and the targets (the leaves). By merging edges together, Flow maps can reduce visual clutter and enhance directional trends.
 
@@ -24,7 +24,7 @@ You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?a
     * remove the flow limit: Now can set any number in **Advanced - Flow limit**, which is previously capped by 10. However, the predefined good categorical colors may run out.
 * Update 1.1.4 (still a draft in the _dist_):
     * add **Origin/Destination name** fields: By default, values in **Origin** and **Destination** fields are used in tooltips. However, they may be too long or too ugly if you also want to use them for the geocoding purpose. Now you can set these two fields and show friendly names in tooltips.
-    * add **Advanced - Language**: Can change the language used by bing map.
+    * add **Advanced - Language**: Can change the language used in the background map.
     * add **Advanced - Cache**: Store the geocoding results, so they can be reused when you open the report next time.
 
 ## How to Use
