@@ -15,7 +15,7 @@ The line thicknesses are scaled to represent the values between the source (the 
 
 ## Where to Get It
 
-You can get it from the [Office Store](https://store.office.com/zh-cn/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&ui=zh-CN&rs=zh-CN&ad=CN&appredirect=false) or the [_dist_](https://github.com/weiweicui/PowerBI-Flowmap/tree/master/dist) folder in this repo.
+You can get it from the [Office Store](https://store.office.com/en-us/app.aspx?assetid=WA104380901&sourcecorrid=ae7baae3-68e1-488c-b34c-ac1e9f8cc8d7&searchapppos=62&appredirect=false&omkt=en-US&ui=en-US&rs=en-US&ad=US) or the [_dist_](https://github.com/weiweicui/PowerBI-Flowmap/tree/master/dist) folder in this repo.
 
 * Update 1.1.3 (still a draft in the _dist_):
     * add **Advanced - Flow style**: Can change the visualization style between curve, great circle, and straight line.
