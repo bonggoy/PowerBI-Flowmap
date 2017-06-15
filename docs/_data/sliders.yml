@@ -1,0 +1,11 @@
+- selector: slider1
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/screenshot.png
+    - src: /assets/screenshot1.png
+    - src: /assets/screenshot2.png
+    - src: /assets/screenshot3.png
+  settings:
+    height: 300
+    effect: "'slide'"
